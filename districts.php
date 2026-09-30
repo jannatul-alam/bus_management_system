@@ -1,0 +1,3 @@
+<?php
+$districts = ["Dhaka", "Chittagong", "Rajshahi", "Khulna", "Barisal", "Sylhet", "Rangpur", "Mymensingh", "Comilla", "Noakhali", "Gazipur", "Narayanganj", "Bogura", "Jessore", "Cox's Bazar", "Tangail", "Feni", "Brahmanbaria", "Dinajpur", "Pabna", "Kushtia", "Natore", "Faridpur", "Madaripur", "Manikganj", "Munshiganj", "Narsingdi", "Bagerhat", "Satkhira", "Chuadanga", "Jhenaidah", "Magura", "Pirojpur", "Bhola", "Jhalokati", "Patuakhali", "Habiganj", "Moulvibazar", "Sunamganj", "Kurigram", "Gaibandha", "Nilphamari", "Panchagarh", "Thakurgaon", "Sirajganj", "Joypurhat", "Naogaon", "Nawabganj", "Lakshmipur", "Chandpur", "Gopalganj", "Shariatpur", "Rajbari", "Jamalpur", "Sherpur", "Kishoreganj", "Netrokona", "Meherpur", "Rangamati", "Bandarban", "Khagrachhari"];
+?>
